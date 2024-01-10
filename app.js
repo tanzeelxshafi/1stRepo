@@ -242,3 +242,6 @@ async function ErrorHandle(){
     console.log('THE ERROR IS:',err);
 }
 }
+
+const h = document.getElementById('new');
+h.style.color = "red";
