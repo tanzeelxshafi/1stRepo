@@ -244,4 +244,5 @@ async function ErrorHandle(){
 }
 
 const h = document.getElementById('new');
-h.style.color = "red";
+h.style.color = "blue";
+// h.backgroundColor="BLACK";
